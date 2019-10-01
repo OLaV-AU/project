@@ -8,7 +8,7 @@ The team
 
 + Alexandra Kratschmer | Professor of Linguistics @ Aarhus University 
 + Rebekah Baglini | Postdoc in Linguistics @ Aarhus University 
-+ Byurakn Ishkhanyan Postdoc in Linguistics @ Aarhus University 
++ Byurakn Ishkhanyan | Postdoc in Linguistics @ Aarhus University 
 + Ana Paulla Braga Mattos | PhD in Linguistics @ Aarhus University 
 
 
