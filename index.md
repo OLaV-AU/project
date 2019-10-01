@@ -1,7 +1,5 @@
-![](OLaV_word_cloud_ex_small.png) OLaV: Online Language of Vaccines at Aarhus University 
+![](OLaV_word_cloud_ex_small.png) OLaV: Online Language of Vaccines
 ============
-
-
 
 Follow us on [Twitter!](https://twitter.com/OLaV_AU) 
 
