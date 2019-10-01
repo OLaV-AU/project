@@ -6,12 +6,10 @@ Follow us on [Twitter!](https://twitter.com/OLaV_AU)
 The team
 ---------------------
 
-|  Members         | Position        | Dept|
-|-----------|---------------|--------|
-| Alexndra Kratschmer| Professor   | Linguistics | 
-| Rebekah Baglini | Postdoc | Linguistics | 
-| Byurakn Ishkhanyan | Postdoc | Linguistics | 
-| Ana Paulla Braga Mattos | PhD | Linguistics | 
++ Alexandra Kratschmer | Professor of Linguistics @ Aarhus University 
++ Rebekah Baglini | Postdoc in Linguistics @ Aarhus University 
++ Byurakn Ishkhanyan Postdoc in Linguistics @ Aarhus University 
++ Ana Paulla Braga Mattos | PhD in Linguistics @ Aarhus University 
 
 
 
