@@ -1,5 +1,4 @@
-OLaV: Online Language of Vaccines 
-Aarhus University 
+OLaV: Online Language of Vaccines at Aarhus University 
 ============
 
 Overview 
