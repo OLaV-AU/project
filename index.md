@@ -8,7 +8,7 @@ The team
 
 + Alexandra Kratschmer | Associate Professor of Linguistics @ Aarhus University 
 + Rebekah Baglini | Postdoc in Linguistics @ Aarhus University 
-+ Byurakn Ishkhanyan | Postdoc in Linguistics @ Aarhus University 
++ Byurakn Ishkhanyan | Postdoc in Semiotics @ Aarhus University 
 + Ana Paulla Braga Mattos | PhD in Linguistics @ Aarhus University 
 
 
