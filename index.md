@@ -21,7 +21,7 @@ Although there is scientific consensus for the safety and efficacy of modern vac
 + RQ1: What linguistic, discursive, and inferential patterns typify pro-vaccine versus vaccine-skeptical posts? 
 + RQ2: What types of causal beliefs and causal arguments underlie pro-vaccine versus vaccine-skeptical posts? 
 + RQ3: How does the particular choice of linguistic register (“style”) for mediating causal information on vaccines on social media affect receivers’ interpretation of the information? 
-+ RQ4: Do the answers to the first three questions differ between Denmark and other countries?
++ RQ4: Do the answers to the first three questions differ cross-linguistically and cross-culturally? 
 
 Our project will address RQ1 and RQ2 using a combination of quantitative and qualitative linguistic analysis to extract and model inferential patterns present in the language of pro- and anti-vaccine posts on social media, ultimately identifying where epistemic and ideological views diverge. By coupling these insights with behavioral studies addressing belief-change in response to the variation in the linguistic packaging of evidence-based research on vaccine efficacy and safety (RQ3), as well as variation in the identity of the messenger, our research will provide unprecedented insight into the reasoning patterns that reinforce anti-vaccine views despite mounting scientific consensus and aggressive counter-information campaigns.  
 
