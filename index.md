@@ -8,11 +8,10 @@ The team
 
 + Alexandra Kratschmer | Associate Professor of Linguistics @ Aarhus University 
 + Rebekah Baglini | Assistant Professor in Linguistics @ Aarhus University 
-+ Christina Rejkjær Dideriksen | PhD student in Linguistics @ Aarhus University 
-+ Byurakn Ishkhanyan | Postdoc in Cognitive Semiotics @ Aarhus University 
-+ Ana Paulla Braga Mattos | PhD student in Linguistics @ Aarhus University 
++ Ana Paulla Braga Mattos | PhD in Linguistics @ Aarhus University 
 (Teaching Assistant Professor in Brazilian Studies from January 1, 2021) 
-
++ Byurakn Ishkhanyan | Postdoc in Cognitive Semiotics @ Aarhus University 
++ Christina Rejkjær Dideriksen | PhD student in Linguistics @ Aarhus University 
 
 
 Project overview 
